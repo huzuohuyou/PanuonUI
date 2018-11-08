@@ -14,6 +14,10 @@ namespace Panuon.UI
 {
     public class PUTabItem : TabItem
     {
+        public PUTabItem() {
+            HorizontalContentAlignment = HorizontalAlignment.Stretch;
+            VerticalContentAlignment = VerticalAlignment.Stretch;
+        }
         static PUTabItem()
         {
             DefaultStyleKeyProperty.OverrideMetadata(typeof(PUTabItem), new FrameworkPropertyMetadata(typeof(PUTabItem)));
@@ -25,6 +29,7 @@ namespace Panuon.UI
         /// </summary>
         public Visibility DeleteButtonVisibility
         {
+            
             get { return (Visibility)GetValue(DeleteButtonVisibilityProperty); }
             set { SetValue(DeleteButtonVisibilityProperty, value); }
         }
@@ -172,6 +177,7 @@ namespace Panuon.UI
         {
             var tabItem = (parameter as PUTabItem);
             var tabControl = tabItem.Parent as PUTabControl;
+            
             if (tabControl.DeleteMode == PUTabControl.DeleteModes.DeleteAndRouted)
                 tabControl.Items.Remove(tabItem);
             tabControl.OnDeleteItem(null, tabItem);

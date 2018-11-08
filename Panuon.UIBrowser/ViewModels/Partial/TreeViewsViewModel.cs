@@ -106,7 +106,7 @@ namespace Panuon.UIBrowser.ViewModels.Partial
                       },
                  },
             });
-            NotifyOfPropertyChange(() => TreeViewItems);
+           // NotifyOfPropertyChange(() => TreeViewItems);
         }
         #endregion
     }

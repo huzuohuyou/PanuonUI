@@ -10,11 +10,17 @@ namespace Panuon.UI
 {
     public class PUTreeViewItem : TreeViewItem
     {
+        public PUTreeViewItem() {
+            var bc = new BrushConverter();
+            this.Background = (Brush)bc.ConvertFrom("#3a3e4a");
+            this.Foreground = (Brush)bc.ConvertFrom("#ffffff");
+        }
         #region Identity
         private PUTreeView ParentTreeView
         {
             get
             {
+                
                 if (_parentTreeView == null)
                 {
                     var parent = this.Parent;

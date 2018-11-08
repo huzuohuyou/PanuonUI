@@ -98,3 +98,43 @@ D:\Panuon Repo\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\DataGridsView
 D:\Panuon Repo\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\DataGridsView.g.cs
 D:\Panuon Repo\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ListBoxsView.baml
 D:\Panuon Repo\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ListBoxsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Panuon.UIBrowser.exe
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Panuon.UIBrowser.pdb
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Panuon.UIBrowser.csprojResolveAssemblyReference.cache
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ListBoxsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\DataGridsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ImageCuterView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\TabControlsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\DatePickersView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\SpecialView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\LineChartsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ProgressBarsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ComboBoxsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\TreeViewsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\RadioButtonsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\CheckBoxsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\MainWindowView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\TextBoxsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ButtonsView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\IntroductionView.baml
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ListBoxsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\DataGridsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ImageCuterView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\TabControlsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\DatePickersView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\SpecialView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\LineChartsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ProgressBarsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ComboBoxsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\TreeViewsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\WindowsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\RadioButtonsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\CheckBoxsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\MainWindowView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\TextBoxsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\ButtonsView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Views\Partial\IntroductionView.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\App.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Panuon.UIBrowser_MarkupCompile.cache
+D:\GitHub\PanuonUI\Panuon.UIBrowser\obj\Release\Panuon.UIBrowser_MarkupCompile.lref
